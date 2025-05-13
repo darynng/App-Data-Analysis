@@ -9,6 +9,7 @@ https://www.kaggle.com/datasets/lava18/google-play-store-apps
 https://www.kaggle.com/datasets/ramamet4/app-store-apple-data-set-10k-apps
 
 Key Insights:
+- Free apps obviously the best option.
 - Navigation and Communication categories seem to be popular but are actually skewed up by only a few giants.
 - Entertainment and Games categoies are popular but the market is pretty saturated.
 - Book and Reference category appears to be the winner with small account of the market but significant installs and number of ratings.

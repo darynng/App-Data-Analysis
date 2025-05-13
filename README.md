@@ -1,4 +1,5 @@
 Profitable App Profile Analysis
+
 This project aims to identify profitable app profiles — apps that are more likely to attract users — to help developers make informed, data-driven decisions about the kinds of apps they should build.
 
 We analyze datasets from both the Google Play Store and the Apple App Store to ensure the study is relevant across the two most dominant app marketplaces.
